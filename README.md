@@ -1,6 +1,6 @@
 # Innocent Niyonzima
 
-**Location:** Washington, DC, USA (Relocatable)  
+**Location:** Washington, DC, USA 
 **Email:** niyonzima@cua.edu  
 **Linktree:** [linktr.ee/Innocent.niyonzima](https://linktr.ee/Innocent.niyonzima)
 
