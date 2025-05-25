@@ -46,7 +46,7 @@ Graduate student in Computer Science with a strong focus on backend development 
 
 ## Professional Experience
 
-### Graduate Assistant  
+### Graduate Research Assistant  
 **Catholic University of America – Washington, DC**  
 *Spring 2025 – Present*
 
