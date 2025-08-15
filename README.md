@@ -82,7 +82,7 @@ Graduate student in Computer Science with a strong focus on backend development 
 ### Budget Planner
 - .NET Core application with SQL-based secure budgeting features.
 
-### [PublishEveryDay_Backend](https://github.com/M-p-MU/PublishEveryDay_Backend)
+### [PublishEveryDay_Backend]([https://github.com/M-p-MU/PublishEveryDay_Backend](https://pedbackend.onrender.com/api-docs/))
 - Blogging platform backend leveraging MERN stack.
 
 ### [COVID-19 Stats Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)
