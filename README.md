@@ -1,14 +1,15 @@
 # Innocent Niyonzima
 
-**Location:** Washington, DC, USA 
-**Email:** niyonzima@cua.edu  
-
+**Location:** Washington, DC, USA  
+**Email:** [niyonzima@cua.edu](mailto:niyonzima@cua.edu)
 
 ---
 
-## Summary
+## About Me
 
-Graduate student in Computer Science with a strong focus on backend development and cloud technologies. Experienced in building secure and scalable applications using modern frameworks and tools. Passionate about clean code, data-driven design, and ethical engineering. Open to research, development, and collaboration opportunities.
+I am a graduate student in Computer Science at the Catholic University of America with a focus on backend development, distributed systems, and cloud technologies. My work blends practical engineering with ethical and data‑driven design principles. I enjoy building secure, maintainable, and scalable systems that solve real problems.  
+
+I’m currently open to research, development, and collaborative opportunities that explore the intersection of software reliability, security, and innovation.
 
 ---
 
@@ -29,74 +30,72 @@ Graduate student in Computer Science with a strong focus on backend development 
 
 ## Technical Skills
 
-- **Languages:** C#, Python, JavaScript, TypeScript, C, C++, PHP, Shell
-- **Frameworks:** Node.js, ReactJS, ASP.NET Core, Laravel, GraphQL
-- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
-- **Cloud/DevOps:** Docker, Git, CI/CD, NGINX, VPS, Agile (SCRUM)
-- **Concepts:** OOP, Data Structures, SDLC, Distributed Systems
+- **Languages:** C#, Python, JavaScript, TypeScript, C, C++, PHP, Shell  
+- **Frameworks:** Node.js, ReactJS, ASP.NET Core, Laravel, GraphQL  
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB  
+- **Cloud/DevOps:** Docker, Git, CI/CD, NGINX, VPS hosting, Agile (SCRUM)  
+- **Core Concepts:** OOP, Data Structures, Distributed Systems, SDLC  
 
 ---
 
 ## Education
 
-- **M.S. in Computer Science** – Catholic University of America, Washington, DC *(Expected May 2026)*
-- **B.Tech in Computer Engineering** – Marwadi University, India *(Graduated April 2024)*
+- **M.S. in Computer Science**  
+  Catholic University of America, Washington, DC *(Expected May 2026)*  
+
+- **B.Tech in Computer Engineering**  
+  Marwadi University, India *(Completed April 2024)*  
 
 ---
 
-## Professional Experience
+## Experience
 
 ### Graduate Research Assistant  
 **Catholic University of America – Washington, DC**  
-*Spring 2025 – Present*
-
-- Supporting confidential faculty-led research projects within the School of Engineering.
+*Spring 2025 – Present*  
+Supporting secure and data‑sensitive research initiatives within the School of Engineering, contributing to backend systems and automation tools that streamline research workflows.
 
 ### Website Manager & Technical Support  
 **Nkotanyi Driving School – Remote**  
-*May 2024 – Dec 2024*
-
-- Optimized server infrastructure, reducing downtime and enhancing performance.
-- Maintained system security through regular updates and configuration.
+*May 2024 – Dec 2024*  
+Improved backend infrastructure, reduced downtime, and implemented best practices for server security and performance optimization.
 
 ### Web Development Intern  
 **Nishkaam Innovations LLP – India**  
-*Dec 2023 – May 2024*
-
-- Developed internal automation and monitoring tools.
-- Applied Agile methodologies and collaborated across functional teams.
+*Dec 2023 – May 2024*  
+Contributed to internal tool development using Node.js and MongoDB. Assisted cross‑functional teams in building scalable web automation solutions following Agile principles.
 
 ---
 
 ## Projects
 
 ### [Ibyapa.com](https://ibyapa.com)
-- Scalable MERN stack platform serving Rwandan driving exam preparation needs.
+A MERN‑based educational platform supporting Rwandan driving exam preparation with a responsive interface and optimized data management.
 
 ### [Shivcreations.com](https://shivcreations.com)
-- E-commerce landing page using HTML, JS, PHP, Tailwind CSS.
+E‑commerce landing page built with HTML, JavaScript, PHP, and Tailwind CSS for fast and mobile‑friendly deployment.
 
 ### Nishkaam Internal Systems
-- Backend development using Node.js, MongoDB to enhance internal workflows.
+Backend automation modules built with Node.js and MongoDB to streamline reporting and analytics within internal business units.
 
 ### Budget Planner
-- .NET Core application with SQL-based secure budgeting features.
+A .NET Core desktop web app supporting secure personal budgeting with robust SQL Server integration.
 
 ### [PublishEveryDay_Backend](https://pedbackend.onrender.com/api-docs/)
-- Blogging platform backend leveraging MERN stack.
+Backend for a blogging platform designed with the MERN stack, featuring RESTful API documentation and user data handling.
 
-### [COVID-19 Stats Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)
-- Node-based COVID-19 data tracker and analytics tool.
+### [COVID‑19 Stats Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)
+Node.js‑based API and dashboard that aggregates and visualizes live COVID‑19 data through multiple data sources.
 
 ---
 
 ## Certifications
 
-- **ALX Back-End Pro Developer** *(Ongoing)*
-- **Aspire Leaders Program**, Aspire Institute *(2024)*
-- **Andela Technical Leadership Program** *(2023)*
-- **Database Programming with SQL**, Oracle Academy *(2022)*
-- **Web Development 101: JavaScript**, ELITE Program *(2022–2023)*
+- **ALX Back‑End Pro Developer** *(Ongoing)*  
+- **Aspire Leaders Program**, Aspire Institute *(2024)*  
+- **Andela Technical Leadership Program** *(2023)*  
+- **Database Programming with SQL**, Oracle Academy *(2022)*  
+- **Web Development 101: JavaScript**, ELITE Program *(2022–2023)*  
 
 ---
 
@@ -104,7 +103,7 @@ Graduate student in Computer Science with a strong focus on backend development 
 
 - English (Fluent)  
 - Kinyarwanda (Native)  
-- French (Intermediate)
+- French (Intermediate)  
 
 ---
 
@@ -112,15 +111,15 @@ Graduate student in Computer Science with a strong focus on backend development 
 
 - Secure system design  
 - Applied AI and automation  
-- Ethical open-source software
+- Open‑source software for public good  
 
 ---
 
 ## Online Presence
 
-- [Portfolio](https://innocent-niyonzima.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/rwandan-techy-innocent/)
-- [Twitter](https://twitter.com/Innocentus8)
+- [Portfolio](https://innocent-niyonzima.vercel.app/)  
+- [LinkedIn](https://www.linkedin.com/in/rwandan-techy-innocent/)  
+- [Twitter](https://twitter.com/Innocentus8)  
 
 ---
 
