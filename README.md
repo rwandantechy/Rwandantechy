@@ -24,13 +24,6 @@
   I build scalable systems, APIs, and automation tools focused on secure, maintainable, and ethical engineering.
 </p>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(15px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
 
 ---
 
