@@ -71,8 +71,8 @@ English • Kinyarwanda • French
 
 ## Links  
 Portfolio: https://innocent-niyonzima.vercel.app  
-LinkedIn: https://linkedin.com/in/rwandan-techy-innocent  
-Twitter: https://twitter.com/Innocentus8  
+LinkedIn: https://www.linkedin.com/in/innocent-niyonziima/ 
+Twitter: https://x.com/Innocentus8  
 
 ---
 
