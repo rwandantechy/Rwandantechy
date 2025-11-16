@@ -1,48 +1,59 @@
-# Hi, I'm Innocent Niyonzima
+<h1 align="center">Hi, I'm Innocent Niyonzima</h1>
 
-**CS Graduate Student @ CUA • Full-Stack & Backend Developer**
-
-I build scalable systems, APIs, and automation tools with a focus on secure, maintainable engineering.
+<p align="center">
+  <strong>CS Graduate Student @ CUA • Full-Stack & Backend Developer</strong><br>
+  I build scalable systems, APIs, and automation tools with a focus on secure, maintainable engineering.
+</p>
 
 ---
 
-## Tech Stack (with Logos)
+## Tech Stack
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6)  
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)  
-![C Sharp](https://img.shields.io/badge/C%23-black?logo=csharp&logoColor=239120)  
-![C](https://img.shields.io/badge/C-black?logo=c&logoColor=A8B9CC)  
-![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/C%23-000?logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/C-000?logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C++-000?logo=cplusplus&logoColor=00599C"/>
+</p>
 
-### Frontend  
-![React](https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=38B2AC)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=38B2AC"/>
+</p>
 
-### Backend & Frameworks  
-![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=339933)  
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-black?logo=.net&logoColor=512BD4)  
-![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=FF2D20)
+### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/ASP.NET-000?logo=.net&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=FF2D20"/>
+</p>
 
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=47A248)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1)  
-![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=4479A1)  
-![SQLServer](https://img.shields.io/badge/SQL%20Server-black?logo=microsoft-sql-server&logoColor=CC2927)
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-000?logo=microsoft-sql-server&logoColor=CC2927"/>
+</p>
 
-### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED)  
-![NGINX](https://img.shields.io/badge/NGINX-black?logo=nginx&logoColor=009639)  
-![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-black?logo=githubactions&logoColor=2088FF)
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/NGINX-000?logo=nginx&logoColor=009639"/>
+  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/CI/CD-000?logo=githubactions&logoColor=2088FF"/>
+</p>
 
 ---
 
 ## Projects
 - **[Ibyapa.com](https://ibyapa.com)** – MERN platform for driving exam preparation  
-- **Budget Planner (.NET)** – Personal finance app in ASP.NET Core  
+- **Budget Planner (.NET)** – Personal finance app built with ASP.NET Core  
 - **[PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)** – Blogging backend with REST APIs  
 - **[COVID-19 Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)** – Node.js dashboard for real-time data  
 
@@ -58,7 +69,7 @@ English • Kinyarwanda • French
 
 ---
 
-## Links
+## Links  
 Portfolio: https://innocent-niyonzima.vercel.app  
 LinkedIn: https://linkedin.com/in/rwandan-techy-innocent  
 Twitter: https://twitter.com/Innocentus8  
@@ -66,5 +77,11 @@ Twitter: https://twitter.com/Innocentus8
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=radical&no-frame=false&no-bg=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwandantechy&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+</p>
