@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Innocent Niyonzima</h1>
+<h1 align="center" style="font-weight:700; font-size:48px;">
+  Hi, I'm <span style="background: linear-gradient(90deg, #ff4d4d, #ff9a00); -webkit-background-clip: text; color: transparent;">Innocent Niyonzima</span>
+</h1>
 
-<p align="center">
+<p align="center" style="font-size:16px; max-width:600px; margin:auto;">
   <strong>CS Graduate Student @ CUA • Full-Stack & Backend Developer</strong><br>
   I build scalable systems, APIs, and automation tools with a focus on secure, maintainable engineering.
 </p>
+
+<hr style="width:60%; margin:auto; border:0.5px solid #444;">
 
 ---
 
@@ -71,7 +75,7 @@ English • Kinyarwanda • French
 
 ## Links  
 Portfolio: https://innocent-niyonzima.vercel.app  
-LinkedIn: https://www.linkedin.com/in/innocent-niyonziima/ 
+LinkedIn: https://www.linkedin.com/in/innocent-niyonziima 
 Twitter: https://x.com/Innocentus8  
 
 ---
