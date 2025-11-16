@@ -1,12 +1,35 @@
-<h1 align="center" style="font-weight:700; font-size:48px;">
-  Hi, I'm <span style="background: linear-gradient(90deg, blue, gray); -webkit-background-clip: text; color: transparent;">Innocent Niyonzima</span>
+<h1 align="center" style="
+  font-weight: 800;
+  font-size: 52px;
+  background: linear-gradient(90deg, #0072ff, #00c6ff, #6a85b6, #bac8e0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1.5px;
+  margin-bottom: 15px;
+  animation: fadeIn 2s ease-in-out;
+">
+  Hi, I'm Innocent Niyonzima
 </h1>
 
-<p align="center" style="font-size:16px; max-width:600px; margin:auto;">
-  <strong>CS Graduate Student @ CUA • Full-Stack & Backend Developer</strong><br>
-  I build scalable systems, APIs, and automation tools with a focus on secure, maintainable engineering.
+<p align="center" style="
+  font-size: 17px;
+  color: #444;
+  max-width: 650px;
+  margin: 0 auto;
+  line-height: 1.6;
+  animation: fadeIn 3s ease-in-out;
+">
+  <strong style="color:#0072ff;">CS Graduate Student @ CUA</strong> • 
+  <strong>Full-Stack & Backend Developer</strong><br>
+  I build scalable systems, APIs, and automation tools focused on secure, maintainable, and ethical engineering.
 </p>
 
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
 
 
 ---
