@@ -1,128 +1,70 @@
-# Innocent Niyonzima
+# Hi, I'm Innocent Niyonzima
 
-**Location:** Washington, DC, USA  
-**Email:** [niyonzima@cua.edu](mailto:niyonzima@cua.edu)
+**CS Graduate Student @ CUA • Full-Stack & Backend Developer**
 
----
-
-## About Me
-
-I am a graduate student in Computer Science at the Catholic University of America with a focus on backend development, distributed systems, and cloud technologies. My work blends practical engineering with ethical and data‑driven design principles. I enjoy building secure, maintainable, and scalable systems that solve real problems.  
-
-I’m currently open to research, development, and collaborative opportunities that explore the intersection of software reliability, security, and innovation.
+I build scalable systems, APIs, and automation tools with a focus on secure, maintainable engineering.
 
 ---
 
-## Technical Skill Badges
+## Tech Stack (with Logos)
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/React-Expert-blue?logo=react&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Advanced-red?logo=git&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?logo=node.js&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java&style=for-the-badge)
-![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-Advanced-blueviolet?style=for-the-badge)
-![API Development](https://img.shields.io/badge/API%20Development-Advanced-brightgreen?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-brightgreen?style=for-the-badge)
+### Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6)  
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)  
+![C Sharp](https://img.shields.io/badge/C%23-black?logo=csharp&logoColor=239120)  
+![C](https://img.shields.io/badge/C-black?logo=c&logoColor=A8B9CC)  
+![C++](https://img.shields.io/badge/C++-black?logo=cplusplus&logoColor=00599C)
 
----
+### Frontend  
+![React](https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=38B2AC)
 
-## Technical Skills
+### Backend & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=339933)  
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-black?logo=.net&logoColor=512BD4)  
+![Laravel](https://img.shields.io/badge/Laravel-black?logo=laravel&logoColor=FF2D20)
 
-- **Languages:** C#, Python, JavaScript, TypeScript, C, C++, PHP, Shell  
-- **Frameworks:** Node.js, ReactJS, ASP.NET Core, Laravel, GraphQL  
-- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB  
-- **Cloud/DevOps:** Docker, Git, CI/CD, NGINX, VPS hosting, Agile (SCRUM)  
-- **Core Concepts:** OOP, Data Structures, Distributed Systems, SDLC  
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=47A248)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1)  
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=4479A1)  
+![SQLServer](https://img.shields.io/badge/SQL%20Server-black?logo=microsoft-sql-server&logoColor=CC2927)
 
----
-
-## Education
-
-- **M.S. in Computer Science**  
-  Catholic University of America, Washington, DC *(Expected May 2026)*  
-
-- **B.Tech in Computer Engineering**  
-  Marwadi University, India *(Completed April 2024)*  
-
----
-
-## Experience
-
-### Graduate Research Assistant  
-**Catholic University of America – Washington, DC**  
-*Spring 2025 – Present*  
-Supporting secure and data‑sensitive research initiatives within the School of Engineering, contributing to backend systems and automation tools that streamline research workflows.
-
-### Website Manager & Technical Support  
-**Nkotanyi Driving School – Remote**  
-*May 2024 – Dec 2024*  
-Improved backend infrastructure, reduced downtime, and implemented best practices for server security and performance optimization.
-
-### Web Development Intern  
-**Nishkaam Innovations LLP – India**  
-*Dec 2023 – May 2024*  
-Contributed to internal tool development using Node.js and MongoDB. Assisted cross‑functional teams in building scalable web automation solutions following Agile principles.
+### DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED)  
+![NGINX](https://img.shields.io/badge/NGINX-black?logo=nginx&logoColor=009639)  
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-black?logo=githubactions&logoColor=2088FF)
 
 ---
 
 ## Projects
-
-### [Ibyapa.com](https://ibyapa.com)
-A MERN‑based educational platform supporting Rwandan driving exam preparation with a responsive interface and optimized data management.
-
-### [Shivcreations.com](https://shivcreations.com)
-E‑commerce landing page built with HTML, JavaScript, PHP, and Tailwind CSS for fast and mobile‑friendly deployment.
-
-### Nishkaam Internal Systems
-Backend automation modules built with Node.js and MongoDB to streamline reporting and analytics within internal business units.
-
-### Budget Planner
-A .NET Core desktop web app supporting secure personal budgeting with robust SQL Server integration.
-
-### [PublishEveryDay_Backend](https://pedbackend.onrender.com/api-docs/)
-Backend for a blogging platform designed with the MERN stack, featuring RESTful API documentation and user data handling.
-
-### [COVID‑19 Stats Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)
-Node.js‑based API and dashboard that aggregates and visualizes live COVID‑19 data through multiple data sources.
+- **[Ibyapa.com](https://ibyapa.com)** – MERN platform for driving exam preparation  
+- **Budget Planner (.NET)** – Personal finance app in ASP.NET Core  
+- **[PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)** – Blogging backend with REST APIs  
+- **[COVID-19 Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)** – Node.js dashboard for real-time data  
 
 ---
 
 ## Certifications
-
-- **ALX Back‑End Pro Developer** *(Ongoing)*  
-- **Aspire Leaders Program**, Aspire Institute *(2024)*  
-- **Andela Technical Leadership Program** *(2023)*  
-- **Database Programming with SQL**, Oracle Academy *(2022)*  
-- **Web Development 101: JavaScript**, ELITE Program *(2022–2023)*  
+ALX Back-End Pro • Aspire Leaders (2024) • Andela TLP (2023) • Oracle SQL (2022)
 
 ---
 
 ## Languages
-
-- English (Fluent)  
-- Kinyarwanda (Native)  
-- French (Intermediate)  
+English • Kinyarwanda • French
 
 ---
 
-## Interests
-
-- Secure system design  
-- Applied AI and automation  
-- Open‑source software for public good  
-
----
-
-## Online Presence
-
-- [Portfolio](https://innocent-niyonzima.vercel.app/)  
-- [LinkedIn](https://www.linkedin.com/in/rwandan-techy-innocent/)  
-- [Twitter](https://twitter.com/Innocentus8)  
+## Links
+Portfolio: https://innocent-niyonzima.vercel.app  
+LinkedIn: https://linkedin.com/in/rwandan-techy-innocent  
+Twitter: https://twitter.com/Innocentus8  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&count_private=true&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=radical&no-frame=false&no-bg=true&margin-w=6)
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=radical&no-frame=false&no-bg=true)
