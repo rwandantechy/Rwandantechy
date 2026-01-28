@@ -76,14 +76,14 @@
     Master of Science, Computer Science
   </div>
   <div style="color: #475569; font-size: 1.1em;">The Catholic University of America, Washington, DC</div>
-  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">May 2026</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2024 – 2026</div>
 </td>
 <td style="padding: 20px; vertical-align: top; width: 50%;">
   <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
     Bachelor of Technology, Computer Engineering
   </div>
   <div style="color: #475569; font-size: 1.1em;">Marwadi University, Rajkot, Gujarat, India</div>
-  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">Dec 2023 – May 2024</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2020 – 2024</div>
 </td>
 </tr>
 <tr>
