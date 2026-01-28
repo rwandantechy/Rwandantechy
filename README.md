@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=M.S.+Computer+Science+%40+CUA;PhD+Applicant;Full-Stack+Developer;Privacy+%26+LLM+Engineer" alt="Typing SVG" />
 </div>
@@ -12,31 +11,68 @@
   </div>
 </div>
 
-## Tech Stack
+## Education
+<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="padding: 20px; vertical-align: top; width: 50%;">
+  <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
+    Master of Science, Computer Science
+  </div>
+  <div style="color: #475569; font-size: 1.1em;">The Catholic University of America</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2024 – 2026</div>
+</td>
+<td style="padding: 20px; vertical-align: top; width: 50%;">
+  <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
+    Bachelor of Technology, Computer Science & Engineering
+  </div>
+  <div style="color: #475569; font-size: 1.1em;">Marwadi University, India</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2020 – 2024</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding: 20px;">
+  <div style="font-weight: 600; color: #3b82f6; font-size: 1.1em; font-family: 'JetBrains Mono', monospace;">
+    Certifications: ALX Back-End Pro • Aspire Leaders Program • Andela TLP
+  </div>
+</td>
+</tr>
+</table>
+</div>
+
+## Tech Stack & Skills
 <table align="center" style="background: #0f172a; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4); margin: 25px 0;">
 <tr>
 <td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #60a5fa; font-size: 1.2em;">Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin: 5px;" />
+  <strong style="color: #60a5fa; font-size: 1.2em;">Languages</strong><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px;" />
 </td>
 <td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #10b981; font-size: 1.2em;">Backend</strong><br>
+  <strong style="color: #10b981; font-size: 1.2em;">Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin: 5px;" />
 </td>
 <td style="padding: 20px; min-width: 200px;">
   <strong style="color: #f59e0b; font-size: 1.2em;">Databases</strong><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" />
 </td>
 <td style="padding: 20px; min-width: 200px;">
   <strong style="color: #ec4899; font-size: 1.2em;">Tools</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Ollama-FF6B35?style=for-the-badge&logo=ollama&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 5px;" />
 </td>
 </tr>
 </table>
@@ -66,35 +102,6 @@
 </div>
 </details>
 
-## Education
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.1);">
-<table style="width: 100%; border-collapse: collapse;">
-<tr>
-<td style="padding: 20px; vertical-align: top; width: 50%;">
-  <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
-    Master of Science, Computer Science
-  </div>
-  <div style="color: #475569; font-size: 1.1em;">The Catholic University of America, Washington, DC</div>
-  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2024 – 2026</div>
-</td>
-<td style="padding: 20px; vertical-align: top; width: 50%;">
-  <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
-    Bachelor of Technology, Computer Science & Engineering
-  </div>
-  <div style="color: #475569; font-size: 1.1em;">Marwadi University, Rajkot, Gujarat, India</div>
-  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2020 – 2024</div>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="padding: 20px;">
-  <div style="font-weight: 600; color: #3b82f6; font-size: 1.1em; font-family: 'JetBrains Mono', monospace;">
-    Certifications: ALX Back-End Pro • Aspire Leaders Program • Andela TLP
-  </div>
-</td>
-</tr>
-</table>
-</div>
-
 ## Languages
 <div style="background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%); padding: 25px; border-radius: 15px; margin: 25px 0;">
 <table align="center" style="font-family: 'JetBrains Mono', monospace;">
@@ -112,41 +119,17 @@
 </table>
 </div>
 
-## Skills
-<table align="center" style="background: #0f172a; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4); margin: 25px 0; color: #e2e8f0; font-family: 'JetBrains Mono', monospace;">
-<tr>
-<td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #60a5fa; font-size: 1.2em;">Languages</strong><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px;" />
-</td>
-<td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #10b981; font-size: 1.2em;">Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white" style="margin: 5px;" />
-</td>
-<td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #f59e0b; font-size: 1.2em;">Databases</strong><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" />
-</td>
-<td style="padding: 20px; min-width: 200px;">
-  <strong style="color: #ec4899; font-size: 1.2em;">Tools</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 5px;" />
-</td>
-</tr>
-</table>
+## Privacy & Security
+
+<div style="background: linear-gradient(135deg, #7c2d12 0%, #ea580c 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(234,88,12,0.3);">
+  <div style="color: white; font-family: 'JetBrains Mono', monospace; font-size: 1.1em; text-align: left; font-weight: 500;">
+    <p style="margin-bottom: 15px;"><strong>🔐 Privacy First Approach:</strong> I design systems with privacy and data protection as core principles, not afterthoughts. All personal data handling adheres to GDPR, CCPA, and international privacy standards.</p>
+    <p style="margin-bottom: 15px;"><strong>🛡️ Security Best Practices:</strong> Implementing end-to-end encryption, secure authentication protocols, and regular security audits. I prioritize responsible disclosure and maintain ethical standards in security research.</p>
+    <p style="margin-bottom: 15px;"><strong>🤝 Ethical AI & ML:</strong> Committed to developing privacy-preserving machine learning models that respect user autonomy. Focus on differential privacy, federated learning, and transparent AI systems.</p>
+    <p><strong>📋 Data Protection Commitment:</strong> No unauthorized data collection, clear privacy policies, and user consent mechanisms in all applications. Research interests include homomorphic encryption and secure multi-party computation.</p>
+  </div>
+</div>
+
 ---
 
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 30px; border-radius: 20px; margin: 30px 0 0 0; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
@@ -156,4 +139,3 @@
   <img src="https://komarev.com/ghpvc/?username=rwandantechy&label=Profile%20views&color=3B82F6&style=flat" alt="Views" />
   <div style="color: #64748b; font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-top: 15px;">
      Updated January 27, 2026
-  </div>
