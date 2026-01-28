@@ -90,7 +90,16 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 <summary>More Stats</summary>
 
 **Repo Pins** (e.g., your key projects):
-<!-- Add your repo pins here -->
+
+<a href="https://github.com/rwandantechy/ibyapa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwandantechy&repo=ibyapa&theme=radical" />
+</a>
+<a href="https://github.com/rwandantechy/budget-planner-dotnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwandantechy&repo=budget-planner-dotnet&theme=radical" />
+</a>
+<a href="https://github.com/rwandantechy/publish-every-day-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwandantechy&repo=publish-every-day-backend&theme=radical" />
+</a>
 
 </details>
 
