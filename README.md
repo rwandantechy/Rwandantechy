@@ -14,7 +14,7 @@
   </div>
 
   <div style="font-family: 'JetBrains Mono', monospace; font-size: 1.4em; font-weight: bold; color: #fbbf24; margin: 20px 0; background: rgba(251,191,36,0.2); padding: 10px 20px; border-radius: 25px; display: inline-block;">
-    ⚡ Always learning, always building!
+    Always learning, always building!
   </div>
 </div>
 
@@ -91,7 +91,7 @@
   <div style="background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%); border: 2px solid #ef4444; border-radius: 15px; padding: 25px; width: 300px; box-shadow: 0 8px 25px rgba(239,68,68,0.3); transition: transform 0.3s ease;">
     <div style="text-align: center; margin-bottom: 15px;">
       <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 15px rgba(239,68,68,0.4);">
-        <span style="color: white; font-size: 2em;">🚗</span>
+        <span style="color: white; font-size: 2em; font-weight: bold;">WEB</span>
       </div>
     </div>
     <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 1.8em; color: #dc2626; margin: 15px 0; text-align: center; border-bottom: 3px solid #ef4444; display: inline-block; padding-bottom: 5px;">Ibyapa.com</h2>
@@ -106,7 +106,7 @@
   <div style="background: linear-gradient(135deg, #e9d5ff 0%, #d8b4fe 100%); border: 2px solid #8b5cf6; border-radius: 15px; padding: 25px; width: 300px; box-shadow: 0 8px 25px rgba(139,92,246,0.3); transition: transform 0.3s ease;">
     <div style="text-align: center; margin-bottom: 15px;">
       <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 15px rgba(139,92,246,0.4);">
-        <span style="color: white; font-size: 2em;">💰</span>
+        <span style="color: white; font-size: 2em; font-weight: bold;">FIN</span>
       </div>
     </div>
     <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 1.8em; color: #7c3aed; margin: 15px 0; text-align: center; border-bottom: 3px solid #8b5cf6; display: inline-block; padding-bottom: 5px;">Budget Planner (.NET)</h2>
@@ -121,7 +121,7 @@
   <div style="background: linear-gradient(135deg, #cffafe 0%, #a5f3fc 100%); border: 2px solid #06b6d4; border-radius: 15px; padding: 25px; width: 300px; box-shadow: 0 8px 25px rgba(6,182,212,0.3); transition: transform 0.3s ease;">
     <div style="text-align: center; margin-bottom: 15px;">
       <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 15px rgba(6,182,212,0.4);">
-        <span style="color: white; font-size: 2em;">📝</span>
+        <span style="color: white; font-size: 2em; font-weight: bold;">API</span>
       </div>
     </div>
     <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 1.8em; color: #0891b2; margin: 15px 0; text-align: center; border-bottom: 3px solid #06b6d4; display: inline-block; padding-bottom: 5px;">PublishEveryDay API</h2>
@@ -179,7 +179,7 @@
 <ul style="list-style: none; padding: 0;">
   <li style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #05966910, #10B98110); border-left: 4px solid #059669; border-radius: 10px; box-shadow: 0 4px 15px rgba(5,150,105,0.1);">
     <div style="display: flex; align-items: center; gap: 15px;">
-      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #059669 0%, #047857 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">🎓</div>
+      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #059669 0%, #047857 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">EDU</div>
       <div>
         <strong style="color: #059669; font-size: 1.1em;">Catholic University of America</strong><br>
         <span style="color: #065f46;">M.Sc. Computer Science (Expected 2026)</span>
@@ -188,7 +188,7 @@
   </li>
   <li style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #DC262610, #EF444410); border-left: 4px solid #DC2626; border-radius: 10px; box-shadow: 0 4px 15px rgba(220,38,38,0.1);">
     <div style="display: flex; align-items: center; gap: 15px;">
-      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">🏛️</div>
+      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">UNI</div>
       <div>
         <strong style="color: #DC2626; font-size: 1.1em;">Marwadi University</strong><br>
         <span style="color: #7f1d1d;">B.Sc. Computer Science & Engineering (2020-2024)</span>
@@ -197,7 +197,7 @@
   </li>
   <li style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #7C3AED10, #8B5CF610); border-left: 4px solid #7C3AED; border-radius: 10px; box-shadow: 0 4px 15px rgba(124,58,237,0.1);">
     <div style="display: flex; align-items: center; gap: 15px;">
-      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #7C3AED 0%, #6D28D9 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">🚀</div>
+      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #7C3AED 0%, #6D28D9 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">CERT</div>
       <div>
         <strong style="color: #7C3AED;">ALX Back-End Pro</strong> (2024)
       </div>
@@ -205,7 +205,7 @@
   </li>
   <li style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #F59E0B10, #F9731610); border-left: 4px solid #F59E0B; border-radius: 10px; box-shadow: 0 4px 15px rgba(245,158,11,0.1);">
     <div style="display: flex; align-items: center; gap: 15px;">
-      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">🌟</div>
+      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">PROG</div>
       <div>
         <strong style="color: #F59E0B;">Aspire Leaders</strong> (2024)
       </div>
@@ -213,7 +213,7 @@
   </li>
   <li style="margin: 15px 0; padding: 15px; background: linear-gradient(135deg, #06B6D410, #0891B210); border-left: 4px solid #06B6D4; border-radius: 10px; box-shadow: 0 4px 15px rgba(6,182,212,0.1);">
     <div style="display: flex; align-items: center; gap: 15px;">
-      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #06B6D4 0%, #0891B2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">💡</div>
+      <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #06B6D4 0%, #0891B2 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">LEAD</div>
       <div>
         <strong style="color: #06B6D4;">Andela TLP</strong> (2023)
       </div>
@@ -230,21 +230,21 @@
 <ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <li style="background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%); padding: 15px 25px; border-radius: 25px; border: 2px solid #2563EB; box-shadow: 0 4px 15px rgba(37,99,235,0.2);">
     <div style="text-align: center;">
-      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em;">🇺🇸</div>
+      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em; font-weight: bold;">EN</div>
       <br><strong style="color: #1e40af; font-size: 1.1em;">English</strong>
       <br><span style="color: #1e3a8a;">Professional</span>
     </div>
   </li>
   <li style="background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%); padding: 15px 25px; border-radius: 25px; border: 2px solid #059669; box-shadow: 0 4px 15px rgba(5,150,105,0.2);">
     <div style="text-align: center;">
-      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #059669 0%, #047857 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em;">🇷🇼</div>
+      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #059669 0%, #047857 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em; font-weight: bold;">RW</div>
       <br><strong style="color: #065f46; font-size: 1.1em;">Kinyarwanda</strong>
       <br><span style="color: #064e3b;">Native</span>
     </div>
   </li>
   <li style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 15px 25px; border-radius: 25px; border: 2px solid #7C3AED; box-shadow: 0 4px 15px rgba(124,58,237,0.2);">
     <div style="text-align: center;">
-      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #7C3AED 0%, #6D28D9 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em;">🇫🇷</div>
+      <div style="width: 50px; height: 50px; background: linear-gradient(135deg, #7C3AED 0%, #6D28D9 100%); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; color: white; font-size: 1.5em; font-weight: bold;">FR</div>
       <br><strong style="color: #5b21b6; font-size: 1.1em;">French</strong>
       <br><span style="color: #4c1d95;">Conversational</span>
     </div>
@@ -262,7 +262,7 @@
     <a href="https://innocent-niyonzima.vercel.app" style="text-decoration: none;">
       <div style="background: linear-gradient(135deg, #000000 0%, #1f2937 100%); padding: 20px; border-radius: 15px; width: 150px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); transition: transform 0.3s ease; border: 2px solid #ffffff;">
         <div style="text-align: center; color: white;">
-          <div style="font-size: 3em; margin-bottom: 10px;">🚀</div>
+          <div style="font-size: 3em; margin-bottom: 10px; font-weight: bold;">WEB</div>
           <div style="font-family: 'JetBrains Mono', monospace; font-weight: bold; font-size: 1.1em;">Portfolio</div>
         </div>
       </div>
@@ -271,7 +271,7 @@
     <a href="https://www.linkedin.com/in/innocent-niyonziima" style="text-decoration: none;">
       <div style="background: linear-gradient(135deg, #0077b5 0%, #005885 100%); padding: 20px; border-radius: 15px; width: 150px; box-shadow: 0 8px 25px rgba(0,119,181,0.3); transition: transform 0.3s ease; border: 2px solid #ffffff;">
         <div style="text-align: center; color: white;">
-          <div style="font-size: 3em; margin-bottom: 10px;">💼</div>
+          <div style="font-size: 3em; margin-bottom: 10px; font-weight: bold;">LINK</div>
           <div style="font-family: 'JetBrains Mono', monospace; font-weight: bold; font-size: 1.1em;">LinkedIn</div>
         </div>
       </div>
@@ -280,7 +280,7 @@
     <a href="https://x.com/Innocentus8" style="text-decoration: none;">
       <div style="background: linear-gradient(135deg, #1da1f2 0%, #0d8ce8 100%); padding: 20px; border-radius: 15px; width: 150px; box-shadow: 0 8px 25px rgba(29,161,242,0.3); transition: transform 0.3s ease; border: 2px solid #ffffff;">
         <div style="text-align: center; color: white;">
-          <div style="font-size: 3em; margin-bottom: 10px;">🐦</div>
+          <div style="font-size: 3em; margin-bottom: 10px; font-weight: bold;">TWT</div>
           <div style="font-family: 'JetBrains Mono', monospace; font-weight: bold; font-size: 1.1em;">Twitter</div>
         </div>
       </div>
@@ -289,7 +289,7 @@
     <a href="mailto:your.email@example.com" style="text-decoration: none;">
       <div style="background: linear-gradient(135deg, #d14836 0%, #b33a2a 100%); padding: 20px; border-radius: 15px; width: 150px; box-shadow: 0 8px 25px rgba(209,72,54,0.3); transition: transform 0.3s ease; border: 2px solid #ffffff;">
         <div style="text-align: center; color: white;">
-          <div style="font-size: 3em; margin-bottom: 10px;">📧</div>
+          <div style="font-size: 3em; margin-bottom: 10px; font-weight: bold;">MAIL</div>
           <div style="font-family: 'JetBrains Mono', monospace; font-weight: bold; font-size: 1.1em;">Email</div>
         </div>
       </div>
@@ -301,7 +301,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 30px; margin: 20px 0; border-radius: 15px; box-shadow: 0 10px 30px rgba(30,27,75,0.3);">
   <div style="font-family: 'JetBrains Mono', monospace; font-size: 1.5em; color: #e0e7ff; margin-bottom: 20px; font-weight: bold;">
-    Thanks for visiting! 🚀
+    Thanks for visiting!
   </div>
   <div style="font-family: 'JetBrains Mono', monospace; font-size: 1.2em; color: #c7d2fe; margin-bottom: 20px;">
     Feel free to explore my repositories and reach out for collaborations.
