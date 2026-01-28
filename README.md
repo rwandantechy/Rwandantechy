@@ -80,7 +80,7 @@
 </td>
 <td style="padding: 20px; vertical-align: top; width: 50%;">
   <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
-    Bachelor of Technology, Computer Engineering
+    Bachelor of Technology, Computer Science & Engineering
   </div>
   <div style="color: #475569; font-size: 1.1em;">Marwadi University, Rajkot, Gujarat, India</div>
   <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">2020 – 2024</div>
@@ -113,34 +113,17 @@
 </table>
 </div>
 
-## Connect
-<div align="center" style="background: linear-gradient(135deg, #1e293b 0%, #334155 100%); padding: 35px; border-radius: 25px; margin: 35px 0; box-shadow: 0 25px 50px rgba(0,0,0,0.4);">
-<table>
-<tr>
-<td style="padding: 15px;">
-  <a href="https://innocent-niyonzima.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</td>
-<td style="padding: 15px;">
-  <a href="https://www.linkedin.com/in/innocent-niyonziima">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</td>
-<td style="padding: 15px;">
-  <a href="https://x.com/Innocentus8">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</td>
-<td style="padding: 15px;">
-  <a href="mailto:niyonzima@cua.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</td>
-</tr>
-</table>
+## Skills
+<div style="background: #0f172a; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4); margin: 25px 0; color: #e2e8f0; font-family: 'JetBrains Mono', monospace;">
+<ul>
+  <li><strong>Languages:</strong> C, C++, Python, JavaScript, TypeScript, PHP</li>
+  <li><strong>Frameworks:</strong> React.js, Node.js, ASP.NET Core, Laravel, REST APIs</li>
+  <li><strong>Databases:</strong> SQL Server, MySQL, PostgreSQL, MongoDB</li>
+  <li><strong>Tools:</strong> Docker, Git, CI/CD, NGINX, PM2, Linux</li>
+  <li><strong>Concepts:</strong> Data Structures, Algorithms, OOP, SDLC, Automata Theory</li>
+  <li><strong>Practices:</strong> API Design, System Design, Debugging, Testing, Agile/Scrum</li>
+</ul>
 </div>
-
 ---
 
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 30px; border-radius: 20px; margin: 30px 0 0 0; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
