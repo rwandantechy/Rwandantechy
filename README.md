@@ -77,13 +77,22 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/rwandantechy">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rwandantechy&show_icons=true&theme=radical&hide_border=true&hide=issues&show=reviews" />
+  </a>
+  <a href="https://github.com/rwandantechy">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwandantechy&layout=donut&langs_count=8&hide=html,css&theme=radical" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&icon_color=38bdae&text_color=c0caf5&border_color=414868&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
+<details>
+<summary>More Stats</summary>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwandantechy&theme=tokyonight&background=1a1b27&border=414868&stroke=70a5fd&ring=38bdae&fire=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=70a5fd&currStreakNum=c0caf5&sideNums=c0caf5&hide_border=true" height="150" alt="GitHub Streak"/>
+**Repo Pins** (e.g., your key projects):
+<!-- Add your repo pins here -->
 
-</div>
+</details>
 
 ## 🎓 Education & Certifications
 
