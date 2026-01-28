@@ -7,11 +7,9 @@
 ---
 
 ## About Me
-**Computer Science Master's student** at Catholic University of America (graduating May 2026). Rwandan developer specializing in full-stack applications (MERN/Laravel), privacy engineering, and LLM optimization for edge devices. Currently applying to PhD programs (Ottawa, MIT, others) while building scalable systems.
-
 <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); padding: 25px; border-radius: 15px; margin: 25px 0; box-shadow: 0 15px 35px rgba(59,130,246,0.3);">
-  <div style="color: white; font-family: 'JetBrains Mono', monospace; font-size: 1.3em; text-align: center; font-weight: 600;">
-    Passionate about technology that serves developing nations
+  <div style="color: white; font-family: 'JetBrains Mono', monospace; font-size: 1.1em; text-align: center; font-weight: 500;">
+    Computer Science professional with a background in algorithms, data structures, and software engineering. Experience building, deploying, and maintaining scalable applications using modern programming languages and containerized environments. Skilled in system design, debugging, and performance analysis, with practical application of theoretical concepts. Seeking entry-level software engineering or technical roles.
   </div>
 </div>
 
@@ -75,16 +73,17 @@
 <tr>
 <td style="padding: 20px; vertical-align: top; width: 50%;">
   <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
-    M.Sc. Computer Science
+    Master of Science, Computer Science
   </div>
-  <div style="color: #475569; font-size: 1.1em;">Catholic University of America</div>
-  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">Expected Graduation: May 2026</div>
+  <div style="color: #475569; font-size: 1.1em;">The Catholic University of America, Washington, DC</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">May 2026</div>
 </td>
 <td style="padding: 20px; vertical-align: top; width: 50%;">
   <div style="font-weight: 700; font-size: 1.3em; color: #1e293b; margin-bottom: 10px; font-family: 'JetBrains Mono', monospace;">
-    B.Sc. Computer Science
+    Bachelor of Technology, Computer Engineering
   </div>
-  <div style="color: #475569; font-size: 1.1em;">University of Rwanda</div>
+  <div style="color: #475569; font-size: 1.1em;">Marwadi University, Rajkot, Gujarat, India</div>
+  <div style="color: #64748b; font-size: 0.95em; margin-top: 5px;">Dec 2023 – May 2024</div>
 </td>
 </tr>
 <tr>
