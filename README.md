@@ -1,127 +1,110 @@
-# <div align="center">Hi, I'm Innocent Niyonzima</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=CS+Graduate+Student+%40+CUA;Full-Stack+%26+Backend+Developer;Building+Scalable+Systems+%26+APIs" alt="Typing SVG" />
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Innocent+Niyonzima!+%F0%9F%91%8B;CS+Graduate+Student+%40+CUA+%F0%9F%8E%93;Full-Stack+%26+Backend+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%26+APIs+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p><strong>Passionate about creating innovative solutions that make a difference. I specialize in full-stack development with expertise in modern web technologies, cloud architecture, and DevOps practices.</strong></p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=github&logoColor=white&color=00C853" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Location-Washington%20DC-1E90FF?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Passionate about creating innovative solutions that make a difference</h3>
+  <p>Specializing in modern web technologies, cloud architecture, and DevOps practices</p>
+  <p><strong>Always learning, always building! 💡</strong></p>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <h3>Languages</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <h3>Frontend</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <h3>Backend</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <h3>Databases</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <h3>DevOps</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <h3>Cloud</h3>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-      </a>
-      <br>
-      <a href="#tech-stack">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+
+### 🌐 Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&icon_color=38bdae&text_color=c0caf5&border_color=414868&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwandantechy&theme=tokyonight&background=1a1b27&border=414868&stroke=70a5fd&ring=38bdae&fire=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=70a5fd&currStreakNum=c0caf5&sideNums=c0caf5&hide_border=true" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwandantechy&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&border_color=414868&hide_border=true&layout=compact&langs_count=8" height="180" alt="Most Used Languages"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
@@ -129,70 +112,86 @@
 
 <div align="center">
 
-### 🌟 [Ibyapa.com](https://ibyapa.com)
-**MERN Stack Platform** - Interactive driving exam preparation with quizzes and progress tracking
+### 🌟 **[Ibyapa.com](https://ibyapa.com)** - MERN Stack Platform
+> Interactive driving exam preparation with quizzes and progress tracking
+>
+> `React` `Node.js` `MongoDB` `Express` `JWT` `Material-UI`
 
-### 💼 Budget Planner (.NET)
-**Personal Finance App** - Expense tracking and budgeting built with ASP.NET Core
+### 💼 **Budget Planner (.NET)** - Personal Finance App
+> Expense tracking and budgeting built with ASP.NET Core
+>
+> `C#` `ASP.NET Core` `Entity Framework` `SQL Server` `MVC`
 
-### 📝 [PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)
-**Blogging Backend** - REST API with authentication and content management
+### 📝 **[PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)** - Blogging Backend
+> Robust REST API with authentication and content management
+>
+> `Node.js` `Express` `MongoDB` `JWT` `Swagger` `bcrypt`
 
-### 🔬 [COVID-19 Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)
-**Real-time Dashboard** - Node.js application for COVID-19 data visualization
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=dark&bg_color=0f0f23&border_color=1a1a2e&title_color=60a5fa&icon_color=34d399&text_color=e4e4e7&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwandantechy&theme=dark&background=0f0f23&border=1a1a2e&stroke=60a5fa&ring=34d399&fire=34d399&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=60a5fa&currStreakNum=e4e4e7&sideNums=e4e4e7&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=dark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+### 🔬 **[COVID-19 Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)** - Real-time Dashboard
+> Node.js application for COVID-19 data visualization
+>
+> `Node.js` `Express` `EJS` `Chart.js` `API Integration`
 
 </div>
 
 ---
 
-## 🎓 Certifications & Languages
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>🏆 Certifications</h3>
-      <ul align="left">
-        <li>ALX Back-End Pro</li>
-        <li>Aspire Leaders (2024)</li>
-        <li>Andela TLP (2023)</li>
-        <li>Oracle SQL (2022)</li>
-      </ul>
-    </td>
-    <td align="center">
-      <h3>🌍 Languages</h3>
-      <p>English • Kinyarwanda • French</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Connect
+## 🎓 Education & Certifications
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://innocent-niyonzima.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocent-niyonziima)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Innocentus8)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+| 🎓 Education | 📜 Certifications |
+|-------------|------------------|
+| **Catholic University of America**<br>Master of Science in Computer Science<br>Expected: 2026 | 🏆 **ALX Back-End Pro**<br>Advanced backend development<br>2024 |
+| **Bachelor's Degree**<br>Computer Science & Engineering<br>2018-2022 | 🏆 **Aspire Leaders**<br>Leadership & Innovation<br>2024 |
+| | 🏆 **Andela TLP**<br>Software Development<br>2023 |
+| | 🏆 **Oracle SQL**<br>Database Management<br>2022 |
+
+</div>
+
+---
+
+## 🌍 Languages & Interests
+
+<div align="center">
+
+| 💬 Languages | 🎯 Interests |
+|-------------|-------------|
+| **English** - Professional | 🚀 **Full-Stack Development** |
+| **Kinyarwanda** - Native | ☁️ **Cloud Architecture** |
+| **French** - Conversational | 🤖 **AI & Machine Learning** |
+| | 📊 **Data Science** |
+| | 🎨 **UI/UX Design** |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 📫 Get In Touch
+
+<a href="https://innocent-niyonzima.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/innocent-niyonziima" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Innocentus8" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+### 💡 Fun Fact
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+</div>
 
 </div>
 
@@ -200,8 +199,19 @@
 
 <div align="center">
 
-**Thanks for visiting!** Feel free to explore my repositories and reach out for collaborations.
+## 🙏 Thanks for Visiting!
 
-<img src="https://raw.githubusercontent.com/Rwandantechy/Rwandantechy/main/assets/wave.gif" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+**Feel free to explore my repositories and reach out for collaborations! 🚀**
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/marquee-snake.gif" width="1000" />
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rwandantechy&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Rwandantechy?label=Followers&style=for-the-badge&color=38bdae" alt="GitHub Followers"/>
+</div>
 
 </div>
