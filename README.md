@@ -1,4 +1,4 @@
-# Hi, I'm Innocent Niyonzima 👋
+# Hi, I'm Innocent Niyonzima
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=CS+Graduate+Student+%40+CUA;Full-Stack+Developer;Building+Scalable+Systems" alt="Typing SVG" />
@@ -6,15 +6,15 @@
 
 ---
 
-## 🚀 About Me
+<h2 style="font-size: 2em; color: #3B82F6; text-align: center;">ABOUT ME</h2>
 
 I'm a passionate **Computer Science Graduate Student** at **Catholic University of America**, specializing in **full-stack development** with expertise in modern web technologies, cloud architecture, and DevOps practices.
 
-**Always learning, always building!** 💡
+**Always learning, always building!**
 
 ---
 
-## 💻 Tech Stack
+<h2 style="font-size: 2em; color: #10B981; text-align: center;">TECH STACK</h2>
 
 <table>
   <tr>
@@ -62,20 +62,20 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 ---
 
-## 📁 Featured Projects
+<h2 style="font-size: 2em; color: #F59E0B; text-align: center;">FEATURED PROJECTS</h2>
 
-### 🌟 [Ibyapa.com](https://ibyapa.com)
+<h3 style="font-size: 1.5em; color: #EF4444;">Ibyapa.com</h3>
 **MERN Stack Platform** - Driving license exam preparation with quizzes and progress tracking
 
-### 💼 Budget Planner (.NET)
+<h3 style="font-size: 1.5em; color: #8B5CF6;">Budget Planner (.NET)</h3>
 **Personal Finance App** - Expense tracking and budgeting built with ASP.NET Core
 
-### 📝 [PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)
+<h3 style="font-size: 1.5em; color: #06B6D4;">PublishEveryDay API</h3>
 **Blogging Backend** - REST API with authentication and content management
 
 ---
 
-## 📊 GitHub Stats
+<h2 style="font-size: 2em; color: #EC4899; text-align: center;">GITHUB STATS</h2>
 
 <p align="center">
   <a href="https://github.com/rwandantechy">
@@ -103,7 +103,7 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 </details>
 
-## 🎓 Education & Certifications
+## <span style="font-size: 1.8em; color: #059669;">EDUCATION & CERTIFICATIONS</span>
 
 - **Catholic University of America** - M.Sc. Computer Science (Expected 2026)
 - **Marwadi University** - B.Sc. Computer Science & Engineering (2020-2024)
@@ -111,14 +111,14 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 - **Aspire Leaders** (2024)
 - **Andela TLP** (2023)
 
-## 🌍 Languages
+## <span style="font-size: 1.8em; color: #DC2626;">LANGUAGES</span>
 - **English** (Professional)
 - **Kinyarwanda** (Native)
 - **French** (Conversational)
 
 ---
 
-## 🤝 Connect With Me
+## <span style="font-size: 1.8em; color: #7C3AED;">CONNECT WITH ME</span>
 
 <div align="center">
 
