@@ -113,24 +113,24 @@
 <div align="center">
 
 ### 🌟 **[Ibyapa.com](https://ibyapa.com)** - MERN Stack Platform
-> Interactive driving exam preparation with quizzes and progress tracking
+> Interactive driving license exam preparation platform with comprehensive quizzes, progress tracking, and user analytics
 >
-> `React` `Node.js` `MongoDB` `Express` `JWT` `Material-UI`
+> `React` `Node.js` `MongoDB` `Express` `JWT` `Material-UI` `Chart.js`
 
 ### 💼 **Budget Planner (.NET)** - Personal Finance App
-> Expense tracking and budgeting built with ASP.NET Core
+> Comprehensive personal finance management application with expense tracking, budgeting, and financial analytics
 >
-> `C#` `ASP.NET Core` `Entity Framework` `SQL Server` `MVC`
+> `C#` `ASP.NET Core` `Entity Framework` `SQL Server` `MVC` `Bootstrap`
 
 ### 📝 **[PublishEveryDay API](https://pedbackend.onrender.com/api-docs/)** - Blogging Backend
-> Robust REST API with authentication and content management
+> Full-featured REST API for blogging platform with user authentication, content management, and comprehensive documentation
 >
-> `Node.js` `Express` `MongoDB` `JWT` `Swagger` `bcrypt`
+> `Node.js` `Express` `MongoDB` `JWT` `Swagger` `bcrypt` `multer` `cors`
 
 ### 🔬 **[COVID-19 Explorer](https://github.com/Rwandantechy/covid-19-updates-explorer-using-nodejs)** - Real-time Dashboard
-> Node.js application for COVID-19 data visualization
+> Interactive web application for COVID-19 data visualization with real-time updates and comprehensive analytics
 >
-> `Node.js` `Express` `EJS` `Chart.js` `API Integration`
+> `Node.js` `Express` `EJS` `Chart.js` `Axios` `COVID-19 API`
 
 </div>
 
@@ -140,12 +140,12 @@
 
 <div align="center">
 
-| 🎓 Education | 📜 Certifications |
-|-------------|------------------|
-| **Catholic University of America**<br>Master of Science in Computer Science<br>Expected: 2026 | 🏆 **ALX Back-End Pro**<br>Advanced backend development<br>2024 |
-| **Bachelor's Degree**<br>Computer Science & Engineering<br>2018-2022 | 🏆 **Aspire Leaders**<br>Leadership & Innovation<br>2024 |
-| | 🏆 **Andela TLP**<br>Software Development<br>2023 |
-| | 🏆 **Oracle SQL**<br>Database Management<br>2022 |
+| Education | Certifications |
+|-----------|---------------|
+| **Catholic University of America**<br>Master of Science in Computer Science<br>Expected: 2026 | **ALX Back-End Pro**<br>Advanced backend development<br>2024 |
+| **University of Rwanda**<br>Bachelor's Degree in Computer Science & Engineering<br>2018-2022 | **Aspire Leaders**<br>Leadership & Innovation<br>2024 |
+| | **Andela TLP**<br>Software Development<br>2023 |
+| | **Oracle SQL**<br>Database Management<br>2022 |
 
 </div>
 
