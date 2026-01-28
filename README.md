@@ -1,10 +1,6 @@
 # Hi, I'm Innocent Niyonzima
 
 <div align="center">
-  [image:1]
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=CS+Graduate+Student+%40+CUA;Full-Stack+Developer;Privacy+%26+LLM+Engineer;PhD+Applicant+Rwanda%E2%86%92Canada" alt="Typing SVG" />
 </div>
 
@@ -138,7 +134,7 @@
   </a>
 </td>
 <td style="padding: 15px;">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:niyonzima@cua.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </td>
@@ -154,6 +150,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=rwandantechy&label=Profile%20views&color=3B82F6&style=flat" alt="Views" />
   <div style="color: #64748b; font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-top: 15px;">
-    Made in Rwanda | Updated January 2026
+    Made in Rwanda | Updated January 27, 2026
   </div>
 </div>
