@@ -1,32 +1,32 @@
-# <div align="center">
+# <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Innocent+Niyonzima!;CS+Graduate+Student+%40+CUA;Full-Stack+%26+Backend+Developer;Building+Scalable+Systems+%26+APIs" alt="Typing SVG" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=github&logoColor=white&color=00C853" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/Location-Washington%20DC-1E90FF?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <h3>Passionate about creating innovative solutions that make a difference</h3>
   <p>Specializing in modern web technologies, cloud architecture, and DevOps practices</p>
   <p><strong>Always learning, always building! 💡</strong></p>
-</div>
+</p>
 
 ---
 
 ## Tech Stack & Tools
 
-<div align="center">
+<p align="center">
 
 ### Programming Languages
 <p>
@@ -84,33 +84,33 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-</div>
+</p>
 
 ---
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rwandantechy&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&icon_color=38bdae&text_color=c0caf5&border_color=414868&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rwandantechy&theme=tokyonight&background=1a1b27&border=414868&stroke=70a5fd&ring=38bdae&fire=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=70a5fd&currStreakNum=c0caf5&sideNums=c0caf5&hide_border=true" height="180" alt="GitHub Streak"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwandantechy&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&border_color=414868&hide_border=true&layout=compact&langs_count=8" height="180" alt="Most Used Languages"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rwandantechy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
 
-</div>
+</p>
 
 ---
 
 ## Featured Projects
 
-<div align="center">
+<p align="center">
 
 ### 🌟 **[Ibyapa.com](https://ibyapa.com)** - MERN Stack Platform
 > Interactive driving license exam preparation platform with comprehensive quizzes, progress tracking, and user analytics
@@ -132,13 +132,13 @@
 >
 > `Node.js` `Express` `EJS` `Chart.js` `Axios` `COVID-19 API`
 
-</div>
+</p>
 
 ---
 
 ## Education & Certifications
 
-<div align="center">
+<p align="center">
 
 | Education | Certifications |
 |-----------|---------------|
@@ -147,13 +147,13 @@
 | | **Andela TLP**<br>Software Development<br>2023 |
 | | **Oracle SQL**<br>Database Management<br>2022 |
 
-</div>
+</p>
 
 ---
 
 ## Languages & Interests
 
-<div align="center">
+<p align="center">
 
 | Languages | Interests |
 |-----------|-----------|
@@ -163,13 +163,13 @@
 | | **Data Science** |
 | | **UI/UX Design** |
 
-</div>
+</p>
 
 ---
 
 ## Let's Connect & Collaborate
 
-<div align="center">
+<p align="center">
 
 ### Get In Touch
 
@@ -189,15 +189,15 @@
 <br><br>
 
 ### 💡 Fun Fact
-<div align="center">
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-</div>
+</p>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ## Thanks for Visiting!
 
@@ -209,9 +209,9 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rwandantechy&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Rwandantechy?label=Followers&style=for-the-badge&color=38bdae" alt="GitHub Followers"/>
-</div>
+</p>
 
-</div>
+</p>
