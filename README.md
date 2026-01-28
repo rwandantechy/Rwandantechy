@@ -6,15 +6,23 @@
 
 ---
 
-<h2 style="font-size: 2em; color: #3B82F6; text-align: center;">ABOUT ME</h2>
+<div align="center">
+  <h1 style="font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace; font-size: 3em; font-weight: bold; color: #3B82F6; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">ABOUT ME</h1>
+</div>
 
-I'm a passionate **Computer Science Graduate Student** at **Catholic University of America**, specializing in **full-stack development** with expertise in modern web technologies, cloud architecture, and DevOps practices.
+<div align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 1.2em; line-height: 1.6; color: #374151; max-width: 800px; margin: 0 auto;">
+  I'm a passionate <strong style="color: #3B82F6;">Computer Science Graduate Student</strong> at <strong style="color: #059669;">Catholic University of America</strong>, specializing in <strong style="color: #DC2626;">full-stack development</strong> with expertise in modern web technologies, cloud architecture, and DevOps practices.
+</div>
 
-**Always learning, always building!**
+<div align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 1.4em; font-weight: bold; color: #7C3AED; margin: 20px 0;">
+  Always learning, always building!
+</div>
 
 ---
 
-<h2 style="font-size: 2em; color: #10B981; text-align: center;">TECH STACK</h2>
+<div align="center">
+  <h1 style="font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace; font-size: 3em; font-weight: bold; color: #10B981; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">TECH STACK</h1>
+</div>
 
 <table>
   <tr>
@@ -62,20 +70,36 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 ---
 
-<h2 style="font-size: 2em; color: #F59E0B; text-align: center;">FEATURED PROJECTS</h2>
+<div align="center">
+  <h1 style="font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace; font-size: 3em; font-weight: bold; color: #F59E0B; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">FEATURED PROJECTS</h1>
+</div>
 
-<h3 style="font-size: 1.5em; color: #EF4444;">Ibyapa.com</h3>
-**MERN Stack Platform** - Driving license exam preparation with quizzes and progress tracking
+<div align="center" style="margin: 30px 0;">
+  <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 2.2em; color: #EF4444; margin: 20px 0; border-bottom: 3px solid #EF4444; display: inline-block; padding-bottom: 5px;">Ibyapa.com</h2>
+  <p style="font-family: 'JetBrains Mono', monospace; font-size: 1.3em; color: #6B7280; margin: 10px 0; max-width: 700px;">
+    <strong style="color: #EF4444;">MERN Stack Platform</strong> - Driving license exam preparation with quizzes and progress tracking
+  </p>
+</div>
 
-<h3 style="font-size: 1.5em; color: #8B5CF6;">Budget Planner (.NET)</h3>
-**Personal Finance App** - Expense tracking and budgeting built with ASP.NET Core
+<div align="center" style="margin: 30px 0;">
+  <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 2.2em; color: #8B5CF6; margin: 20px 0; border-bottom: 3px solid #8B5CF6; display: inline-block; padding-bottom: 5px;">Budget Planner (.NET)</h2>
+  <p style="font-family: 'JetBrains Mono', monospace; font-size: 1.3em; color: #6B7280; margin: 10px 0; max-width: 700px;">
+    <strong style="color: #8B5CF6;">Personal Finance App</strong> - Expense tracking and budgeting built with ASP.NET Core
+  </p>
+</div>
 
-<h3 style="font-size: 1.5em; color: #06B6D4;">PublishEveryDay API</h3>
-**Blogging Backend** - REST API with authentication and content management
+<div align="center" style="margin: 30px 0;">
+  <h2 style="font-family: 'JetBrains Mono', monospace; font-size: 2.2em; color: #06B6D4; margin: 20px 0; border-bottom: 3px solid #06B6D4; display: inline-block; padding-bottom: 5px;">PublishEveryDay API</h2>
+  <p style="font-family: 'JetBrains Mono', monospace; font-size: 1.3em; color: #6B7280; margin: 10px 0; max-width: 700px;">
+    <strong style="color: #06B6D4;">Blogging Backend</strong> - REST API with authentication and content management
+  </p>
+</div>
 
 ---
 
-<h2 style="font-size: 2em; color: #EC4899; text-align: center;">GITHUB STATS</h2>
+<div align="center">
+  <h1 style="font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', monospace; font-size: 3em; font-weight: bold; color: #EC4899; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">GITHUB STATS</h1>
+</div>
 
 <p align="center">
   <a href="https://github.com/rwandantechy">
@@ -103,22 +127,41 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 </details>
 
-## <span style="font-size: 1.8em; color: #059669;">EDUCATION & CERTIFICATIONS</span>
+## <span style="font-family: 'JetBrains Mono', monospace; font-size: 2.5em; font-weight: bold; color: #059669; display: block; text-align: center; margin: 30px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">EDUCATION & CERTIFICATIONS</span>
 
-- **Catholic University of America** - M.Sc. Computer Science (Expected 2026)
-- **Marwadi University** - B.Sc. Computer Science & Engineering (2020-2024)
-- **ALX Back-End Pro** (2024)
-- **Aspire Leaders** (2024)
-- **Andela TLP** (2023)
+<div style="font-family: 'JetBrains Mono', monospace; font-size: 1.2em; line-height: 1.8; margin: 20px 0;">
+<ul style="list-style: none; padding: 0;">
+  <li style="margin: 15px 0; padding: 10px; background: linear-gradient(135deg, #05966910, #10B98110); border-left: 4px solid #059669; border-radius: 5px;">
+    <strong style="color: #059669; font-size: 1.1em;">Catholic University of America</strong> - M.Sc. Computer Science (Expected 2026)
+  </li>
+  <li style="margin: 15px 0; padding: 10px; background: linear-gradient(135deg, #DC262610, #EF444410); border-left: 4px solid #DC2626; border-radius: 5px;">
+    <strong style="color: #DC2626; font-size: 1.1em;">Marwadi University</strong> - B.Sc. Computer Science & Engineering (2020-2024)
+  </li>
+  <li style="margin: 15px 0; padding: 10px; background: linear-gradient(135deg, #7C3AED10, #8B5CF610); border-left: 4px solid #7C3AED; border-radius: 5px;">
+    <strong style="color: #7C3AED;">ALX Back-End Pro</strong> (2024)
+  </li>
+  <li style="margin: 15px 0; padding: 10px; background: linear-gradient(135deg, #F59E0B10, #F9731610); border-left: 4px solid #F59E0B; border-radius: 5px;">
+    <strong style="color: #F59E0B;">Aspire Leaders</strong> (2024)
+  </li>
+  <li style="margin: 15px 0; padding: 10px; background: linear-gradient(135deg, #06B6D410, #0891B210); border-left: 4px solid #06B6D4; border-radius: 5px;">
+    <strong style="color: #06B6D4;">Andela TLP</strong> (2023)
+  </li>
+</ul>
+</div>
 
-## <span style="font-size: 1.8em; color: #DC2626;">LANGUAGES</span>
-- **English** (Professional)
-- **Kinyarwanda** (Native)
-- **French** (Conversational)
+## <span style="font-family: 'JetBrains Mono', monospace; font-size: 2.5em; font-weight: bold; color: #DC2626; display: block; text-align: center; margin: 30px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">LANGUAGES</span>
+
+<div style="font-family: 'JetBrains Mono', monospace; font-size: 1.2em; line-height: 1.8; margin: 20px 0;">
+<ul style="list-style: none; padding: 0;">
+  <li style="margin: 10px 0;"><strong style="color: #2563EB; font-size: 1.1em;">English</strong> (Professional)</li>
+  <li style="margin: 10px 0;"><strong style="color: #059669; font-size: 1.1em;">Kinyarwanda</strong> (Native)</li>
+  <li style="margin: 10px 0;"><strong style="color: #7C3AED; font-size: 1.1em;">French</strong> (Conversational)</li>
+</ul>
+</div>
 
 ---
 
-## <span style="font-size: 1.8em; color: #7C3AED;">CONNECT WITH ME</span>
+## <span style="font-family: 'JetBrains Mono', monospace; font-size: 2.5em; font-weight: bold; color: #7C3AED; display: block; text-align: center; margin: 30px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">CONNECT WITH ME</span>
 
 <div align="center">
 
