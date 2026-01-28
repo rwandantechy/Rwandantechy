@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Innocent Niyonzima**
+# Hi, I'm **Innocent Niyonzima**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=M.S.+Computer+Science+%40+CUA;Full-Stack+Developer;ML+Engineer" alt="Typing SVG" />
