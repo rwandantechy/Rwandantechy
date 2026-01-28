@@ -85,17 +85,13 @@ I'm a passionate **Computer Science Graduate Student** at **Catholic University 
 
 </div>
 
----
-
 ## 🎓 Education & Certifications
 
 - **Catholic University of America** - M.Sc. Computer Science (Expected 2026)
-- **University of Rwanda** - B.Sc. Computer Science & Engineering (2018-2022)
+- **Marwadi University** - B.Sc. Computer Science & Engineering (2020-2024)
 - **ALX Back-End Pro** (2024)
 - **Aspire Leaders** (2024)
 - **Andela TLP** (2023)
-
----
 
 ## 🌍 Languages
 - **English** (Professional)
