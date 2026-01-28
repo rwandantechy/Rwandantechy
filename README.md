@@ -114,16 +114,40 @@
 </div>
 
 ## Skills
-<div style="background: #0f172a; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4); margin: 25px 0; color: #e2e8f0; font-family: 'JetBrains Mono', monospace;">
-<ul>
-  <li><strong>Languages:</strong> C, C++, Python, JavaScript, TypeScript, PHP</li>
-  <li><strong>Frameworks:</strong> React.js, Node.js, ASP.NET Core, Laravel, REST APIs</li>
-  <li><strong>Databases:</strong> SQL Server, MySQL, PostgreSQL, MongoDB</li>
-  <li><strong>Tools:</strong> Docker, Git, CI/CD, NGINX, PM2, Linux</li>
-  <li><strong>Concepts:</strong> Data Structures, Algorithms, OOP, SDLC, Automata Theory</li>
-  <li><strong>Practices:</strong> API Design, System Design, Debugging, Testing, Agile/Scrum</li>
-</ul>
-</div>
+<table align="center" style="background: #0f172a; padding: 25px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.4); margin: 25px 0; color: #e2e8f0; font-family: 'JetBrains Mono', monospace;">
+<tr>
+<td style="padding: 20px; min-width: 200px;">
+  <strong style="color: #60a5fa; font-size: 1.2em;">Languages</strong><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px;" />
+</td>
+<td style="padding: 20px; min-width: 200px;">
+  <strong style="color: #10b981; font-size: 1.2em;">Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white" style="margin: 5px;" />
+</td>
+<td style="padding: 20px; min-width: 200px;">
+  <strong style="color: #f59e0b; font-size: 1.2em;">Databases</strong><br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" />
+</td>
+<td style="padding: 20px; min-width: 200px;">
+  <strong style="color: #ec4899; font-size: 1.2em;">Tools</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 5px;" />
+</td>
+</tr>
+</table>
 ---
 
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 30px; border-radius: 20px; margin: 30px 0 0 0; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
@@ -132,6 +156,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=rwandantechy&label=Profile%20views&color=3B82F6&style=flat" alt="Views" />
   <div style="color: #64748b; font-family: 'JetBrains Mono', monospace; font-size: 0.95em; margin-top: 15px;">
-    Made in Rwanda | Updated January 27, 2026
+     Updated January 27, 2026
   </div>
 </div>
