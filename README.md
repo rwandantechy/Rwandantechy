@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Innocent+Niyonzima!+%F0%9F%91%8B;CS+Graduate+Student+%40+CUA+%F0%9F%8E%93;Full-Stack+%26+Backend+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%26+APIs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Innocent+Niyonzima!;CS+Graduate+Student+%40+CUA;Full-Stack+%26+Backend+Developer;Building+Scalable+Systems+%26+APIs" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,18 +17,18 @@
 <br>
 
 <div align="center">
-  <h3>🚀 Passionate about creating innovative solutions that make a difference</h3>
+  <h3>Passionate about creating innovative solutions that make a difference</h3>
   <p>Specializing in modern web technologies, cloud architecture, and DevOps practices</p>
   <p><strong>Always learning, always building! 💡</strong></p>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-### 🌐 Frontend Technologies
+### Frontend Technologies
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-### 🛠️ Tools & Others
+### Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -88,7 +88,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 <div align="center">
 
@@ -151,27 +151,27 @@
 
 ---
 
-## 🌍 Languages & Interests
+## Languages & Interests
 
 <div align="center">
 
-| 💬 Languages | 🎯 Interests |
-|-------------|-------------|
-| **English** - Professional | 🚀 **Full-Stack Development** |
-| **Kinyarwanda** - Native | ☁️ **Cloud Architecture** |
-| **French** - Conversational | 🤖 **AI & Machine Learning** |
-| | 📊 **Data Science** |
-| | 🎨 **UI/UX Design** |
+| Languages | Interests |
+|-----------|-----------|
+| **English** - Professional | **Full-Stack Development** |
+| **Kinyarwanda** - Native | **Cloud Architecture** |
+| **French** - Conversational | **AI & Machine Learning** |
+| | **Data Science** |
+| | **UI/UX Design** |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 📫 Get In Touch
+### Get In Touch
 
 <a href="https://innocent-niyonzima.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -199,7 +199,7 @@
 
 <div align="center">
 
-## 🙏 Thanks for Visiting!
+## Thanks for Visiting!
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
