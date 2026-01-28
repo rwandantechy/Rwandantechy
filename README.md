@@ -119,18 +119,6 @@
 </table>
 </div>
 
-## Privacy & Security
-
-<div style="background: linear-gradient(135deg, #7c2d12 0%, #ea580c 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(234,88,12,0.3);">
-  <div style="color: white; font-family: 'JetBrains Mono', monospace; font-size: 1.1em; text-align: left; font-weight: 500;">
-    <p style="margin-bottom: 15px;"><strong>🔐 Privacy First Approach:</strong> I design systems with privacy and data protection as core principles, not afterthoughts. All personal data handling adheres to GDPR, CCPA, and international privacy standards.</p>
-    <p style="margin-bottom: 15px;"><strong>🛡️ Security Best Practices:</strong> Implementing end-to-end encryption, secure authentication protocols, and regular security audits. I prioritize responsible disclosure and maintain ethical standards in security research.</p>
-    <p style="margin-bottom: 15px;"><strong>🤝 Ethical AI & ML:</strong> Committed to developing privacy-preserving machine learning models that respect user autonomy. Focus on differential privacy, federated learning, and transparent AI systems.</p>
-    <p><strong>📋 Data Protection Commitment:</strong> No unauthorized data collection, clear privacy policies, and user consent mechanisms in all applications. Research interests include homomorphic encryption and secure multi-party computation.</p>
-  </div>
-</div>
-
----
 
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 30px; border-radius: 20px; margin: 30px 0 0 0; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
   <div style="color: #94a3b8; font-family: 'JetBrains Mono', monospace; font-size: 1.2em; margin-bottom: 20px;">
