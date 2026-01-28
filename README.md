@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=M.S.+Computer+Science+%40+CUA;PhD+Applicant;Full-Stack+Developer;Privacy+%26+LLM+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=M.S.+Computer+Science+%40+CUA;Full-Stack+Developer;Privacy+%26+LLM+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ## About Me
 <div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); padding: 25px; border-radius: 15px; margin: 25px 0; box-shadow: 0 15px 35px rgba(59,130,246,0.3);">
   <div style="color: white; font-family: 'JetBrains Mono', monospace; font-size: 1.1em; text-align: center; font-weight: 500;">
-    Master's student in Computer Science at The Catholic University of America with research interests in privacy-preserving machine learning and large language models. Strong background in algorithms, data structures, and full-stack software engineering. Experienced in designing, implementing, and deploying scalable systems using modern technologies and containerization. PhD applicant with proven expertise in system design, performance optimization, and collaborative research. Passionate about leveraging technology to solve real-world challenges while maintaining rigorous academic standards.
+    Master's student in Computer Science at The Catholic University of America with research interests in privacy-preserving machine learning and large language models. Strong background in algorithms, data structures, and full-stack software engineering. Experienced in designing, implementing, and deploying scalable systems using modern technologies and containerization. Passionate about leveraging technology to solve real-world challenges while maintaining rigorous academic standards.
   </div>
 </div>
 
