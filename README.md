@@ -90,9 +90,7 @@
 <td style="padding: 15px 25px; background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%); border-radius: 12px; margin: 5px; border: none;">
   <strong style="color: #065f46;">English</strong><br><span style="color: #047857;">Professional</span>
 </td>
-<td style="padding: 15px 25px; background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); border-radius: 12px; margin: 5px; border: none;">
-  <strong style="color: #5b21b6;">French</strong><br><span style="color: #581c87;">Conversational</span>
-</td>
+
 </tr>
 </table>
 </div>
