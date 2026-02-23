@@ -79,30 +79,6 @@
 </tr>
 </table>
 
-## Featured Projects
-<div align="center" style="background: linear-gradient(135deg, #1e293b 0%, #334155 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.3);">
-  <a href="https://github.com/rwandantechy/SpendSmart">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwandantechy&repo=SpendSmart&theme=radical&show_icons=true&bg_color=1e293b&title_color=fbbf24&icon_color=60a5fa" height="120" />
-  </a>
-  <a href="https://github.com/rwandantechy/edge_llm_benchmark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwandantechy&repo=edge_llm_benchmark&theme=radical&show_icons=true&bg_color=1e293b&title_color=fbbf24&icon_color=60a5fa" height="120" />
-  </a>
-</div>
-
-## GitHub Stats
-<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 30px; border-radius: 20px; margin: 30px 0; box-shadow: 0 25px 50px rgba(0,0,0,0.4);">
-  <img height="210" src="https://github-readme-stats.vercel.app/api?username=rwandantechy&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs&show=reviews&bg_color=0f172a&title_color=fbbf24&text_color=e2e8f0&icon_color=60a5fa" />
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwandantechy&layout=donut&langs_count=8&hide=html,css&theme=radical&bg_color=0f172a&title_color=fbbf24&text_color=e2e8f0" />
-</div>
-
-<details style="margin: 25px 0;">
-<summary style="font-size: 1.3em; font-family: 'JetBrains Mono', monospace; font-weight: 600; color: #3b82f6; cursor: pointer; padding: 15px; background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%); color: white; border-radius: 12px; display: inline-block;">View Additional Stats</summary>
-<div style="background: #0f172a; padding: 25px; border-radius: 15px; margin-top: 15px; box-shadow: inset 0 5px 15px rgba(0,0,0,0.3);">
-  <p style="color: #94a3b8; font-family: 'JetBrains Mono', monospace; text-align: center; margin-bottom: 20px; font-size: 1.1em;">
-    Add more repository pins as you build new projects
-  </p>
-</div>
-</details>
 
 ## Languages
 <div style="background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%); padding: 25px; border-radius: 15px; margin: 25px 0;">
