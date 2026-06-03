@@ -54,11 +54,11 @@
 
 <div style="background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%); padding: 25px; border-radius: 15px; margin: 25px 0;">
 <ul>
-<li>🚗 Built and maintained <strong>ibyapa.com</strong>, a production platform serving 76,000+ users across Rwanda.</li>
-<li>💳 Supported more than 40,000 platform transactions and digital payment integrations.</li>
-<li>🤖 Developed an automated framework for benchmarking and evaluating open-source LLMs.</li>
-<li>🔬 Conducted research on efficient AI deployment and model evaluation in resource-constrained environments.</li>
-<li>☁️ Experienced in cloud infrastructure, Docker, Linux administration, NGINX, CI/CD, and scalable deployments.</li>
+<li> Built and maintained <strong>ibyapa.com</strong>, a production platform serving 76,000+ users across Rwanda.</li>
+<li>Supported more than 40,000 platform transactions and digital payment integrations.</li>
+<li>Developed an automated framework for benchmarking and evaluating open-source LLMs.</li>
+<li> Conducted research on efficient AI deployment and model evaluation in resource-constrained environments.</li>
+<li> Experienced in cloud infrastructure, Docker, Linux administration, NGINX, CI/CD, and scalable deployments.</li>
 </ul>
 </div>
 
